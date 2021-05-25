@@ -2,8 +2,7 @@
 Arduino Nano Convert ps/2 to json data Serial
 
 ## Info
-Arduino-Mouse(x86).zip is have setup and source code in C#\r\n
-PS-to-Usb-Arduino.zip is have *.ino file and Libs \r\n
+Arduino-Mouse(x86).zip is have setup and source code in C# and PS-to-Usb-Arduino.zip is have *.ino file and Libs \r\n
 
 ## Link
 library: http://computer-engineering.org/ps2mouse
